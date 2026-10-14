@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "meowzinga",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "sdfof.aternos.me",
+    "port": 63834,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,10 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "I like to play Minecraft!"
+        "I like to play Minecraft!",
+        "I love you BAABBBYYY",
+        "AAAHHHHHHH",
+        "meowmeow bih"
       ]
     },
     "chat-log": true,
